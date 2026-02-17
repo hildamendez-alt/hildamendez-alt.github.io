@@ -1,0 +1,56 @@
+---
+title: "Elis Mendez"
+image: "yo_elis.jpeg"
+links:
+  - label: '`r fontawesome::fa(name = "instagram", fill = "steelblue")` Instagram'
+    url: "https://www.instagram.com/daaeliss/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/hildamendez-alt"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "hilda.mendez@encit.unam.mx"
+
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Sobre mí** 
+
+Estoy interesada en el estudio de las relaciones sociedad/ambiente, restauración de ecosistemas, gestión de estrategias contra la contaminación ambiental, feminismo, lucha de la comunidad LGTQIA+, el urbanismo y las artes visuales.
+
+Miembro de la Sociedad de debate "Edén"
+| Instagram: @[debate_eden](https://www.instagram.com/debate_eden/)
+
+
+#### **Educación**
+
+**Nivel medio superior: Escuela Nacional Preparatoria No.5**| @[prepa5.unam](https://www.instagram.com/prepa5.unam/) | Agosto 2021 - Abril 2024
+
+**Nivel superior: Licenciatura en Ciencias de la Tierra ENCiT, UNAM**| @[encit_unam](https://www.instagram.com/encit_unam/) | Agosto 2024 - Actualidad
+
+#### **Experiencia extracurricular**
+
+**Marzo 2023**
+
+Mención honorífica en la 1a edición del Modelo Interno de Naciones Unidas del Plantel 5 José Vasconcelos 
+
+**Septiembre 2023**
+
+Fundadora del Club de Debate de la Preparatoria No.5 @[voztica.p5](https://www.instagram.com/voztica.p5/) 
+
+**Abril 2024**
+
+Ganadora de 3er lugar en el concurso interpreparatoriano 2023-2024 de los colegios de dibujo y modelado, física, geografía y quimíca "Titirimundi atmósferico"
+
+Ganadora de 3er lugar en el concurso interpreparatoriano 2023-2024 del colegio de biología
+
+**Junio 2025**
+
+Ganadora de "Copa Puma de Debate 2025 UNAM"
+
+**Noviembre 2025**
+
+Finalista categoría novata torneo de debate "Prestige Open"
